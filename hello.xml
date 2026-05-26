@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 <message>hello from master</message>
 <message>conflict</message>
+=======
+<message>Hello</message>
+<user>saryu</user>
+>>>>>>> gitwork
